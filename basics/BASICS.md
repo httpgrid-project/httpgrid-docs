@@ -24,7 +24,7 @@ Manage your API keys to authenticate requests with HTTPgrid. HTTPgrid authentica
 
 Your API keys can be found on the "API Access" page of the HTTPgrid Dashboard.
 
---IMAGE
+![](../images/obtaining-your-api-keys.png)
 
 ## Keeping your keys safe
 
